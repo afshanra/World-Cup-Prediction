@@ -1,0 +1,2 @@
+# World Cup Winner Prediction Project
+This repository contains the code and resources for a project undertaken as part of the Fundamental of Data Science course. The project focuses on predicting the winner of the FIFA World Cup using binary classification techniques. The team, consisting of five members, approached the problem by representing it as a binary classification task, simplifying the model output to predict a win (1) for the home team or a draw/loss (0).
